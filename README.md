@@ -10,4 +10,4 @@ Bom, resumindo então, aí está um pouco de mim:
 - 👯 Estou interessado em oportunidades de emprego, freela, ou qualquer projeto que eu ache legal e possa colaborar, então me mande um email!! 
 - 💬 Ask me about ...
 - 📫 Você pode falar comigo pelo meu email: ccaioc.correa@gmail.com ou pelo meu WhatsApp: (11) 95590-1466
-- ⚡ Em meu tempo livre eu, basicamente, jogo LOL e toco violino
+- ⚡ Em meu tempo livre eu, basicamente, jogo LOL e toco violino. E você?
