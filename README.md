@@ -15,7 +15,7 @@ Bom, resumindo, aí está um pouco de mim:
 
 <h3 align="left">Contate-me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/caio-corr%c3%aaa-chaves/" target="blank">
+  <a href="https://linkedin.com/in/caio-corr%c3%aaa-chaves/" target="blank">
      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" 
           alt="https://www.linkedin.com/in/caio-corr%c3%aaa-chaves/" height="30" width="40" />
    </a>
