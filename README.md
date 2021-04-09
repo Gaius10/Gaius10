@@ -3,7 +3,7 @@
 Sou o Caio, tenho 19 anos e estou mergulhando nos mares do desenvolvimento.
 Curto muito *backend*, mas me viro com um pouco de tudo quando se trata de web, ali em baixo tem uma lista das tecnologias que mais domino atualmente.
 
-Bom, resumindo então, aí está um pouco de mim:
+Bom, resumindo, aí está um pouco de mim:
 
 - 🔭 Atualmente estou trabalhando em um projeto como freelancer e em iniciando um projeto opensouce (https://www.github.com/OrpanCoins/orphancoins) junto com uma equipe de voluntários
 - 🌱 Estou estudando principalmente umas APIs para usar nos meus projetos, mas também estou começando a mexer com React.js 
