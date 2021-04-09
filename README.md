@@ -13,10 +13,6 @@ Bom, resumindo, aí está um pouco de mim:
 - ⚡ Em meu tempo livre eu curto jogar LOL e tocar violino. E você?
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaius10" alt="gaius10" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/caio-corr%c3%aaa-chaves/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/caio-corr%c3%aaa-chaves/" height="30" width="40" /></a>
