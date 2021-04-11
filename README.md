@@ -5,7 +5,7 @@ Curto muito *backend*, mas me viro com um pouco de tudo quando se trata de web, 
 
 Bom, além disso, aqui vai um um pouco sobre mim:
 
-- 🔭 Atualmente estou trabalhando em um projeto como freelancer e em iniciando um projeto opensouce (https://www.github.com/OrpanCoins/orphancoins) junto com uma equipe de voluntários
+- 🔭 Atualmente estou trabalhando em um projeto como freelancer e em iniciando um projeto opensouce (https://github.com/OrphanCoins/orphancoins) junto com uma equipe de voluntários
 - 🌱 Estou estudando principalmente algumas APIs para usar nos meus projetos, mas também estou começando a mexer com React.js 
 - 👯 Estou interessado em oportunidades de emprego, freela, ou qualquer projeto que eu ache legal e possa colaborar.
 - 📫 Você pode falar comigo facilmente pelo meu email: ccaioc.correa@gmail.com ou pelo meu WhatsApp: (11) 95590-1466
