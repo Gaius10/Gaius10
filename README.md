@@ -21,6 +21,9 @@ Bom, além disso, aqui vai um um pouco sobre mim:
   <a href="https://instagram.com/caiu.correa" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="caiu.correa" height="30" width="40" />
   </a>
+<!--   <a href="https://api.whatsapp.com/send?phone=5511955901466&text=Oi%20Caio!%20Tudo%20bem%3F">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="caiu.correa" height="30" width="40" />
+  </a> -->
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
