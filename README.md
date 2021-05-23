@@ -21,7 +21,7 @@ Bom, além disso, aqui vai um um pouco sobre mim:
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="caiu.correa" height="30" width="40" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5511955901466&text=Oi%20Caio!%20Tudo%20bem%3F">
-    <img width="40" height="30" src="https://image.flaticon.com/icons/png/512/134/134937.png" alt="whatsapp" title="whatsapp" class="loaded">
+    <img width="32" height="32" src="https://image.flaticon.com/icons/png/512/134/134937.png" alt="whatsapp" title="whatsapp" class="loaded">
   </a>
 </p>
 
