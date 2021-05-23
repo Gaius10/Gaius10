@@ -15,10 +15,10 @@ Bom, além disso, aqui vai um um pouco sobre mim:
 <h3 align="left">Contate-me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/caio-corr%c3%aaa-chaves/" target="blank" styles="color: blue">
-     <img width="32" height="32" src="https://image.flaticon.com/icons/png/512/145/145807.png" alt="linkedin grátis ícone" title="linkedin grátis ícone" class="loaded">
+     <img width="32" height="32" src="https://image.flaticon.com/icons/png/512/145/145807.png" alt="linkedin" title="linkedin grátis ícone" class="loaded">
   </a>
   <a href="https://instagram.com/caiu.correa" target="blank">
-    <img width="32" height="32" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="instagram grátis ícone" title="instagram grátis ícone" class="loaded">
+    <img width="32" height="32" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="instagram" title="instagram grátis ícone" class="loaded">
   </a>
   <a href="https://api.whatsapp.com/send?phone=5511955901466&text=Oi%20Caio!%20Tudo%20bem%3F">
     <img width="32" height="32" src="https://image.flaticon.com/icons/png/512/134/134937.png" alt="whatsapp" title="whatsapp" class="loaded">
