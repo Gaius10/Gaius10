@@ -9,7 +9,7 @@ Bom, além disso, aqui vai um um pouco sobre mim:
 - 🌱 Basicamente, estou estudando React.js e me aprofundando no funcionamento do Laravel.
 - 👯 Estou interessado em oportunidades de emprego, freela, ou qualquer projeto que eu ache legal e possa colaborar!
 - 📫 Você pode falar comigo facilmente pelo meu email: ccaioc.correa@gmail.com ou pelo meu WhatsApp: (11) 95590-1466
-- ⚡ Em meu tempo livre eu curto, basicamente, jogar (LOL/xadrez) e tocar umas músicas. E você?
+- ⚡ Em meu tempo livre eu curto, basicamente, jogar (LOL e xadrez) e tocar umas músicas. E você?
 
 
 <h3 align="left">Contate-me:</h3>
