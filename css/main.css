@@ -1,0 +1,45 @@
+main section {
+    width: 90%;
+    max-width: 900px;
+    padding: 4rem 0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+/* main section::after {
+    content: "";
+    width: 50%;
+    border: 1px grey solid;
+    margin: 2rem 0;
+} */
+
+main section p {
+    text-align: center;
+    line-height: 2rem;
+}
+
+main section ul.imageContainer,
+main section ul.imageContainer li,
+main section ul.imageContainer li img {
+    width: 100%;
+    max-width: 100%;
+}
+
+main section ul.imageContainer li {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+@media only screen and (min-width: 700px) {
+    main section ul.imageContainer li:nth-child(2) {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    main section ul.imageContainer li.reduceOnMiddleScreens {
+        width: 60%;
+        margin: 0 auto;
+    }
+}
+
