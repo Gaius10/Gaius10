@@ -1,45 +1,17 @@
-body,
-main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
-    font-family: 'Courier New', 
-                  Courier, 
-                  monospace;
-    
-    background-color: #FFDED6;
-    color: #100007;
+:root {
+    --colorText: black;
+    --colorDocument: white;
+    --colorDocumentSecondary: #dfe0e0;
+    --colorMain: #d0826f;
+    --colorSecondary: #3b4358;
 }
 
-body,
-ul {
-    padding: 0;
-    margin: 0;
+html {
+    scroll-behavior: smooth;
 }
 
-a {
-    text-decoration: none;
-    color: inherit;
-}
-
-
-ul {
-    list-style-type: none;
-}
-
-#chatMe {
-    padding: 1rem 2rem;
-    border-radius: 1rem;
-
-    position: fixed;
-    bottom: 1rem;
-    right: 1rem;
-
-    background-color: #00E8FC;
-    color: #100007
-}
-
-#chatMe:hover {
-    background-color: #20FC8F;
+body {
+    font-family: Assistant, sans-serif;
+    font-size: 110%;
+    line-height: 200%;
 }

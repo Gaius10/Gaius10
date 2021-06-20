@@ -1,0 +1,37 @@
+/**
+ * Pensar numa forma melhor de fazer isso
+ */
+#sobre {
+    margin-top: -17rem;
+}
+
+main section {
+    width: 100%;
+    max-width: 1000px;
+    padding: 1rem;
+    margin: 0 auto;
+}
+
+main section header {
+    width: 100%;
+}
+
+main section header h2 {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--colorMain);
+}
+
+main section header h3 {
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-style: italic;
+    color: var(--colorMain);
+}
+
+main section p {
+    font-size: 1.2rem;
+    line-height: 2rem;
+    text-align: justify;
+    margin: 1rem 0;
+}

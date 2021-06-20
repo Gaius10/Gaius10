@@ -1,51 +1,68 @@
-header,
-header figure {
+main > header {
     width: 100%;
-    min-height: 90vh;
+    height: auto;
+    padding: 2rem 0;
+    margin: 0 auto;
 
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
 
-    background-color: #100007;
+    background-color: var(--colorSecondary);
     color: white;
+    font-weight: 400;
+}
+main > header h1 {
+    font-size: 2.2rem;
 }
 
-header figure img {
-    border-radius: 50%;
-    width: 400px;
-    height: 400px;
-}
-
-header figure figcaption {
-    width: 100%;
-    height: 100%;
-
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 3rem;
-}
-
-header figure figcaption pre {
-    display: none;
+main > header h2 {
+    font-size: 1.6rem;
     font-style: italic;
 }
 
-@media only screen and (min-width: 768px) {
-    header,
-    header figure {
-        flex-direction: row-reverse;
-        justify-content: space-evenly;
-        align-items: center;
-    }
+#headerTextContent {
+    display: flex;    
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+}
 
-    header figure figcaption {
-        max-width: 40%;
-    }
+#headerTextContent > ul {
+    display: flex;    
+    flex-direction: row;
+    justify-content: center;
 
-    header figure figcaption pre {
-        display: inline;
+    margin-top: 2rem;
+    gap: 0.3rem;
+}
+
+#headerTextContent > ul li {
+    transition-duration: 0.5s;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+#headerTextContent > ul li:hover {
+    transition-duration: 0.5s;
+    /* color: black; */
+    background-color: #456;
+    box-shadow: 0 2px 5px 0 #567;
+}
+
+#headerTextContent > ul li i {
+    margin-right: 0.3rem;
+}
+
+
+main > header img {
+    display: none;
+}
+
+@media only screen and (min-width: 800px) {
+    main > header img {
+        display: block;
+        border-radius: 50%;
+        max-height: 300px;
     }
 }
