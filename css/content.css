@@ -1,11 +1,5 @@
-/**
- * Pensar numa forma melhor de fazer isso
- */
-#sobre {
-    margin-top: -17rem;
-}
-
 main section {
+    box-sizing: border-box;
     width: 100%;
     max-width: 1000px;
     padding: 1rem;
@@ -13,19 +7,24 @@ main section {
 }
 
 main section header {
+    box-sizing: border-box;
     width: 100%;
+    border-left: 3px var(--colorMain) solid;
+    padding-left: 1rem;
 }
 
 main section header h2 {
     font-size: 1.6rem;
     font-weight: 700;
-    color: var(--colorMain);
+    color: #333;
+    /* color: var(--colorMain); */
 }
 
 main section header h3 {
     font-size: 1.2rem;
     font-weight: 500;
     font-style: italic;
+    /* color: #333; */
     color: var(--colorMain);
 }
 
@@ -34,4 +33,100 @@ main section p {
     line-height: 2rem;
     text-align: justify;
     margin: 1rem 0;
+    text-indent: 2rem;
 }
+
+main section p a {
+    color: blue;
+    cursor: pointer;
+}
+main section p a:hover {
+    text-decoration: underline;
+}
+
+a sup {
+    font-size: 0.65rem;
+    vertical-align: super;
+}
+
+#aboutLink {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 4rem;
+    cursor: pointer;
+    background-color: #DDD;
+    padding: 0.7rem 1.5rem;
+    border-radius: 1rem;
+    color: #444;
+    transition-duration: 0.4s;
+}
+#aboutLink:hover {
+    text-decoration: none;
+    color: black;
+    background-color: #CCC;
+
+}
+#aboutLink i {
+    margin: 0 1rem;
+    font-size: 0.9rem;
+}
+
+.post_footer {
+    text-align: right;
+    font-style: italic;
+    line-height: 1.5rem;
+}
+div.divider {
+    border-bottom: 2px var(--colorMain) solid;
+    max-width: 650px;
+    margin: 3rem auto;
+}
+strong.think {
+    font-style: italic;
+}
+
+#stack header ul {
+    display: flex;
+    flex-direction: row;
+}
+
+#stack header ul li img {
+    width: 35px;
+    height: 35px;
+}
+
+#studies ul {
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 2rem;
+}
+
+#studies ul li a {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    line-height: 1.6rem;
+    border-bottom: 1px gray solid;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    padding: 1rem
+}
+#studies ul li a:hover {
+    background-color: var(--colorMain);
+}
+
+#studies ul li h4 {
+    font-size: 1.35rem;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-family: serif;
+}
+
+
+

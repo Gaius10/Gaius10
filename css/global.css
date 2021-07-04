@@ -14,4 +14,18 @@ body {
     font-family: Assistant, sans-serif;
     font-size: 110%;
     line-height: 200%;
+    box-sizing: border-box !important;
+    width: 100%;
+}
+
+ul.with-style {
+    list-style: inside;
+}
+
+i {
+    display: inline !important;
+}
+
+a.default_link {
+    cursor: pointer;
 }
