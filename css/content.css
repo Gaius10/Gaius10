@@ -49,27 +49,26 @@ a sup {
     vertical-align: super;
 }
 
-#aboutLink {
+.smooth_link {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
 
-    margin-top: 4rem;
+    margin-top: 1rem;
     cursor: pointer;
     background-color: #DDD;
     padding: 0.7rem 1.5rem;
     border-radius: 1rem;
-    color: #444;
+    color: #555;
     transition-duration: 0.4s;
 }
-#aboutLink:hover {
+.smooth_link:hover {
     text-decoration: none;
     color: black;
     background-color: #CCC;
-
 }
-#aboutLink i {
+.smooth_link i {
     margin: 0 1rem;
     font-size: 0.9rem;
 }
@@ -88,6 +87,10 @@ strong.think {
     font-style: italic;
 }
 
+#sobre p:last-child {
+    margin-top: 4rem;
+}
+
 #stack header ul {
     display: flex;
     flex-direction: row;
@@ -99,9 +102,9 @@ strong.think {
 }
 
 #studies ul {
+    margin-top: 3rem;
     width: 100%;
     box-sizing: border-box;
-    margin-top: 2rem;
 }
 
 #studies ul li a {
@@ -109,16 +112,9 @@ strong.think {
     flex-direction: row;
     justify-content: space-between;
     box-sizing: border-box;
-    width: 100%;
-    height: 100%;
     line-height: 1.6rem;
-    border-bottom: 1px gray solid;
     cursor: pointer;
-    transition-duration: 0.4s;
-    padding: 1rem
-}
-#studies ul li a:hover {
-    background-color: var(--colorMain);
+    padding: 1rem;
 }
 
 #studies ul li h4 {
