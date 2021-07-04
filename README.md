@@ -5,8 +5,8 @@ Curto muito *backend*, mas me viro com um pouco de tudo quando se trata de web, 
 
 Bom, além disso, aqui vai um um pouco sobre mim:
 
-- 🔭 Atualmente estou trabalhando em um projeto como freelancer e iniciando um projeto opensouce (https://github.com/OrphanCoins/orphancoins) junto com uma equipe de voluntários
-- 🌱 Basicamente, estou estudando React.js e me aprofundando no funcionamento do Laravel.
+<!-- - 🔭 Atualmente estou trabalhando em um projeto como freelancer e iniciando um projeto opensouce (https://github.com/OrphanCoins/orphancoins) junto com uma equipe de voluntários -->
+- 🌱 Basicamente, estou estudando Flutter e me aprofundando no funcionamento do Laravel.
 <!-- - 👯 Estou interessado em oportunidades de emprego, freela, ou qualquer projeto que eu ache legal e possa colaborar! -->
 - 📫 Você pode falar comigo facilmente pelo meu email: ccaioc.correa@gmail.com ou pelo meu WhatsApp: (11) 95590-1466
 - ⚡ Em meu tempo livre eu curto, basicamente, jogar (LOL e xadrez) e tocar umas músicas. E você?
