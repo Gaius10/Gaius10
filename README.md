@@ -71,5 +71,3 @@ Bom, além disso, aqui vai um um pouco sobre mim:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaius10&show_icons=true&locale=en" alt="gaius10" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaius10&show_icons=true&locale=en&layout=compact" alt="gaius10" /></p>
-
-
