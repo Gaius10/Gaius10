@@ -4,7 +4,7 @@
       <div class="title">
         <h1>Caio Corrêa Chaves</h1>
         <p>
-          Analista de Processamento de Dados na
+          Programador PHP Junior na
           <a target="_blank" href="https://www.turimsoft.com.br/site/">
             Turim <i class="fas fa-external-link-alt"></i>
           </a>
