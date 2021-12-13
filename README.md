@@ -1,16 +1,5 @@
-### Eaii, como vai? 👋
-
-Sou o Caio, tenho 19 anos e estou, hoje, mergulhando nos mares da programação.
-Curto muito *backend*, mas me viro com um pouco de tudo quando se trata de web, ali em baixo tem uma lista das ferramentas/tecnologias que mais uso atualmente.
-
-Bom, além disso, aqui vai um um pouco sobre mim:
-
-<!-- - 🔭 Atualmente estou trabalhando em um projeto como freelancer e iniciando um projeto opensouce (https://github.com/OrphanCoins/orphancoins) junto com uma equipe de voluntários -->
-- 🌱 Neste momento, devo estar estudando algo aleatório.
-<!-- - 👯 Estou interessado em oportunidades de emprego, freela, ou qualquer projeto que eu ache legal e possa colaborar! -->
-- 📫 Você pode falar comigo facilmente pelo meu email: ccaioc.correa@gmail.com ou pelo meu WhatsApp: (11) 95590-1466
-- ⚡ Em meu tempo livre eu curto, basicamente, jogar (LOL e xadrez) e tocar umas músicas. E você?
-
+Oi, eu sou o Caio.
+Eu sei codar e dormir :)
 
 <h3 align="left">Contate-me:</h3>
 <p align="left">
