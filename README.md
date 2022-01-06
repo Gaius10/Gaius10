@@ -1,9 +1,6 @@
 <h1 align="center">Oi, eu sou o Caio.</h1>
 <h3 align="center">Eu sei codar e dormir :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaius10&label=Profile%20views&color=0e75b6&style=flat" alt="gaius10" /> </p>
-
-
 <h3 align="left">Contate-me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/caio-corr%c3%aaa-chaves/" target="blank" styles="color: blue">
