@@ -1,5 +1,5 @@
 <h1 align="center">Oi, eu sou o Caio.</h1>
-<h3 align="center">Eu sei codar e dormir :)</h3>
+<h3 align="center">Eu sei codar :)</h3>
 
 <h3 align="left">Contate-me:</h3>
 <p align="left">
