@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Caio.</h1>
+<h1 align="center">Oi, sou o Caio.</h1>
 <h3 align="center">Eu sei codar :)</h3>
 
 <h3 align="left">Contate-me:</h3>
